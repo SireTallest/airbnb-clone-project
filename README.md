@@ -125,14 +125,14 @@ To maintain consistency and reusability across the project, the following UI com
  Maintains branding and offers consistency at the bottom of every page.
 
  #### 🛠 Tech Stack
- Frontend: HTML, CSS, JavaScript, React, Next.js
- Backend: Node.js, Express
- Database: MySQL
- Authentication: JWT
- Deployment: Vercel
+ - Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Node.js, Express
+- Database: MySQL
+- Authentication: JWT
+- Deployment: Vercel
 
  #### 🤝 Contributing
  Contributions are welcome! If you’d like to improve this project, please fork the repo and submit a pull request.
 
  #### 📜 License
- This project is licensed under the The Unlicense.
+This project is licensed under the The Unlicense.
