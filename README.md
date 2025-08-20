@@ -40,68 +40,68 @@ In a booking system, user-friendly design is critical because it reduces frictio
 
   ### 🎨 Design Properties
   #### 🎨 Color Styles
- Primary: #FF5A5F
- Secondary: #008489
- Background: #FFFFFF
- Text: #222222
- Secondary Text: #717171
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
 
 
    #### ✍️ Typography
- Primary Font: Circular, Medium (500), 16px
- Headings: Circular, Bold (700), 24px–32px
- Secondary Text: Circular, Book (400), 14px
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px–32px
+- Secondary Text: Circular, Book (400), 14px
 
 
   ### 💡 Why Identifying Design Properties Matters
-Defining color styles and typography in advance ensures visual consistency across the project. By identifying these properties in a mockup design:
- Developers and designers work with the same visual guidelines.
- The user experience remains cohesive across different pages and devices.
- Branding is reinforced through consistent colors and type hierarchy.
- Design decisions become faster and more scalable for future updates.
+- Defining color styles and typography in advance ensures visual consistency across the project. By identifying these properties in a mockup design:
+- Developers and designers work with the same visual guidelines.
+- The user experience remains cohesive across different pages and devices.
+- Branding is reinforced through consistent colors and type hierarchy.
+- Design decisions become faster and more scalable for future updates.
 
 
   ### 👥 Project Roles and Responsibilities
 
  #### 📌 Project Manager
-Oversees project planning, execution, and delivery.
- Manages timelines, resources, and team coordination.
- Ensures communication between stakeholders and the development team.
+- Oversees project planning, execution, and delivery.
+- Manages timelines, resources, and team coordination.
+- Ensures communication between stakeholders and the development team.
 
  #### 🎨 Designers
- Create wireframes, mockups, and prototypes for the application.
- Define UI/UX guidelines (colors, typography, layouts).
- Ensure a user-friendly, accessible, and visually appealing design.
+- Create wireframes, mockups, and prototypes for the application.
+- Define UI/UX guidelines (colors, typography, layouts).
+- Ensure a user-friendly, accessible, and visually appealing design.
 
  #### 💻 Frontend Developers
- Implement the UI based on the designers’ mockups.
- Ensure responsiveness and cross-browser compatibility.
- Integrate frontend components with backend APIs.
+- Implement the UI based on the designers’ mockups.
+- Ensure responsiveness and cross-browser compatibility.
+- Integrate frontend components with backend APIs.
 
  #### ⚙️ Backend Developers
- Build and maintain the server-side logic, APIs, and database.
- Ensure secure authentication and data management.
- Optimize application performance and scalability.
+- Build and maintain the server-side logic, APIs, and database.
+- Ensure secure authentication and data management.
+- Optimize application performance and scalability.
 
  #### 🧪 QA/Testers
- Develop and execute test cases (manual & automated).
- Identify and report bugs or inconsistencies.
- Ensure the product meets quality standards before release.
+- Develop and execute test cases (manual & automated).
+- Identify and report bugs or inconsistencies.
+- Ensure the product meets quality standards before release.
 
  #### 🚀 DevOps Engineers
- Manage deployment pipelines and CI/CD processes.
- Monitor server performance and ensure system reliability.
- Handle cloud services, scaling, and security configurations.
+- Manage deployment pipelines and CI/CD processes.
+- Monitor server performance and ensure system reliability.
+- Handle cloud services, scaling, and security configurations.
 
  #### 👑 Product Owner
- Defines the vision and goals of the project.
- Prioritizes features and manages the product backlog.
- Acts as the voice of the customer and business needs.
+- Defines the vision and goals of the project.
+- Prioritizes features and manages the product backlog.
+- Acts as the voice of the customer and business needs.
 
  #### 📢 Scrum Master
- Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives).
- Removes obstacles that block team progress.
- Ensures the team follows Agile principles for smooth delivery.
+- Facilitates Agile ceremonies (stand-ups, sprint planning, retrospectives).
+- Removes obstacles that block team progress.
+- Ensures the team follows Agile principles for smooth delivery.
 
  ✅ Together, these roles collaborate to ensure the project is well-planned, user-focused, technically robust, and delivered on time with high quality.
 
@@ -110,19 +110,19 @@ Oversees project planning, execution, and delivery.
 To maintain consistency and reusability across the project, the following UI components will be created:
 
  #### 🔝 Navbar
- Provides global navigation throughout the application.
- Includes logo, search bar, links to main pages (Home, Listings, Checkout), and user account options.
- Stays consistent across all pages for a seamless user experience.
+- Provides global navigation throughout the application.
+- Includes logo, search bar, links to main pages (Home, Listings, Checkout), and user account options.
+- Stays consistent across all pages for a seamless user experience.
 
  #### 🏡 Property Card
- Displays property details in a compact, visually appealing format.
- Includes image, title, location, price, and quick action (e.g., “View Details” or “Book Now”).
- Reusable across property listing pages with dynamic data.
+- Displays property details in a compact, visually appealing format.
+- Includes image, title, location, price, and quick action (e.g., “View Details” or “Book Now”).
+- Reusable across property listing pages with dynamic data.
 
  #### ⬇️ Footer
- Contains useful links (About, Help, Contact, Terms, Privacy).
- Provides quick access to important information.
- Maintains branding and offers consistency at the bottom of every page.
+- Contains useful links (About, Help, Contact, Terms, Privacy).
+- Provides quick access to important information.
+- Maintains branding and offers consistency at the bottom of every page.
 
  #### 🛠 Tech Stack
  - Frontend: HTML, CSS, JavaScript, React, Next.js
